@@ -1,0 +1,13 @@
+# Site settings
+title: hacker by moonlight
+email: moar.riah@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  fighting bugs by moonlight. doing pretty much the same thing by daylight.
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: riahk
+github_username:  riahk
+paginate: 5
+
+
+# Build settings
+markdown: redcarpet
