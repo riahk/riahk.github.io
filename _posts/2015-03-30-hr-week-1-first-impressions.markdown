@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[HR] Week 1: First Impressions"
-date: 2015-03-22 00:10:48
+date: 2015-03-30 00:22:48
 categories: hackreactor
 ---
 
