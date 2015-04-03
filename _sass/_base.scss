@@ -178,6 +178,7 @@ pre {
     padding-left: $spacing-unit;
     background: white;
     border: solid 10px white;
+    border-radius: 20px;
     border-bottom-color: #EAA4C6;
     @extend %clearfix;
 
