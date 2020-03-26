@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basic Web Scraping with Python (and BeautifulSoup)"
-date:   2015-08-18
+date:   2015-08-18 11:07:31
 published: true
 categories: python
 ---
