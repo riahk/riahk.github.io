@@ -1,12 +1,16 @@
 ---
-layout: page
+layout: logo-page
 title: About
 ---
 
-<img class="profile" style="float: right" src="{{ page.baseurl }}/assets/profilepic.jpg">
+<img class="profile" src="{{ page.baseurl }}/assets/moriah_01_2020.jpg">
 
-My name is Moriah, I'm a Bay Area native and Full-Stack Software Engineer. My main language is Javascript but I've also got experience coding in Python, Java, C and Ruby. I'm also a graduate of the Hack Reactor program, which was quite possibly one of the best experiences of my life. I build web and mobile applications for fun and profit. 
+<div class="about-text">
+<p>Hello world! I'm Moriah, an SF Bay Area native and Full-Stack Software Engineer. My main language is JavaScript but I also have experience coding in Python, Java, C and Ruby. I build web and mobile applications for fun and profit.</p>
 
-If I'm not coding then I'm probably either skiing, drawing or practicing yoga. Other things I enjoy, in no particular order: tea, cats, the ocean, pixel art and retro video games.
+<p>If I'm not coding then I'm probably either skiing, drawing or practicing yoga. Other things I enjoy, in no particular order: tea, cats, the ocean, pixel art and retro video games.</p>
 
-Check out my code over at my [github](http://github.com/riahk).
+<p>Check out my code over at my <a href="http://github.com/riahk">github</a>.</p>
+<p>Or shoot me an email at <a
+href="mailto:moar.riah@gmail.com">moar.riah@gmail.com</a>!</p>
+</div>
