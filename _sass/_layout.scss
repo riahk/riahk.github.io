@@ -251,8 +251,8 @@
 	position: absolute;
 	top: 50%;
 	right: 10px;
-	width: 300px;
-	transform: translateY( -50% ) rotate( -90deg );
+	width: 285px;
+	transform: translateY( -50% );
 }
 
 .about-text {
@@ -551,7 +551,7 @@
 	.profile {
 		left: 50%;
 		margin-top: 30px;
-		transform: translateX( -50% ) rotate( -90deg );
+		transform: translateX( -50% );
 	}
 
 	.about-text {
